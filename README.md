@@ -1,4 +1,4 @@
-cappd
+cappd.me link shortener
 =====
 
 cappd.me is a link shortener in PHP 5.3 using the Slim framework, and NotORM for database access. It supports setting an
