@@ -14,10 +14,11 @@ Config
 ====
 -Fill in the required information in index.php
 -Run the following sql query to create the necessary table
+
+```mysql
 -- 
 -- Table structure for table `links`
 -- 
-```mysql
 CREATE TABLE `links` (
   `id` int(50) NOT NULL auto_increment,
   `url` varchar(200) NOT NULL,
