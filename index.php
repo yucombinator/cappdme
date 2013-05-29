@@ -5,7 +5,7 @@
  *
  * @author           Yu Chen Hou<me@yuchenhou.com>
  * @copyright        (c) 2012, Pierre-Henry Soria. All Rights Reserved.
- * @license          GNU General Public License.
+ * @license          CC BY-SA 3.0
  * @version          1.0
  */
 
