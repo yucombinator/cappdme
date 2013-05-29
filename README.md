@@ -13,6 +13,8 @@ Web server with a database supported by PDO (mysql), PHP 5.3+.
 Config
 ====
 -Fill in the required information in index.php
+
+
 -Run the following sql query to create the necessary table
 
 ```mysql
@@ -30,6 +32,8 @@ CREATE TABLE `links` (
   KEY `id` (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=1000 DEFAULT CHARSET=latin1 AUTO_INCREMENT=1000 ;
 ```
+
+
 -See Slim documentation on how to set it up
 
 Released under
