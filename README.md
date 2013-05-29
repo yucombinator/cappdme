@@ -28,7 +28,7 @@ CREATE TABLE `links` (
   `current_daily_cap` int(50) NOT NULL default '0',
   `current_total_cap` bigint(50) NOT NULL default '0',
   KEY `id` (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=115 DEFAULT CHARSET=latin1 AUTO_INCREMENT=1000 ;
+) ENGINE=MyISAM AUTO_INCREMENT=1000 DEFAULT CHARSET=latin1 AUTO_INCREMENT=1000 ;
 ```
 -See Slim documentation on how to set it up
 
