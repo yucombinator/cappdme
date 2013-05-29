@@ -1,7 +1,8 @@
 cappd
 =====
 
-cappd.me is a link shortener in PHP 5.3 using the Slim framework, and NotORM for database access.
+cappd.me is a link shortener in PHP 5.3 using the Slim framework, and NotORM for database access. It supports setting an
+expiration date and total cap before a link stops working and is then deleted from the database.
 
 Requirements
 ====
